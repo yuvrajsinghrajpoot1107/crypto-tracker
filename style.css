@@ -1,0 +1,64 @@
+.navdeco{
+    color: rgb(214, 253, 58);
+    background-color:rgb(37, 42, 45);
+    height: 100px;
+    margin: px auto;
+    border-radius: 10px;
+    padding: 12px;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+
+.contents-table{
+    color: rgb(190, 230, 31);
+}
+
+.bttn-decoration{
+    color: rgb(214, 253, 58);
+    background-color:rgb(37, 42, 45);
+}
+
+.card-deco{
+
+    border: 0px solid black;
+    width: 140px;
+    height: 80px;
+    justify-content: center;
+    text-align: center;
+    margin: 19px 1px 1px 10px;
+    padding:18%;
+    border-radius: 10px;
+    box-shadow: 7px 7px rgb(179, 175, 175);
+    
+
+}
+
+
+
+.display-bar{
+    display: inline-block;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin: auto 20px; 
+    
+    
+}
+
+.card-deco-mane{
+    display:inline-block;
+   
+}
+
+button:hover{
+    color: rgb(214, 253, 58);
+    background-color:rgb(75, 77, 78);
+    
+}
+
+.text-look{
+    color: rgb(7, 7, 7);
+    background-color:rgb(192, 212, 119);
+}
